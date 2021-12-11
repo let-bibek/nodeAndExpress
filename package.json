@@ -1,0 +1,22 @@
+{
+  "name": "node-express-tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bibek2001/nodeAndExpress.git"
+  },
+  "author": "bibek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bibek2001/nodeAndExpress/issues"
+  },
+  "homepage": "https://github.com/bibek2001/nodeAndExpress#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

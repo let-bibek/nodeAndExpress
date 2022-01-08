@@ -6,4 +6,3 @@ console.log(user);
 console.log(`${os.type()}`);
 console.log(`${os.version()}`);
 console.log(`${os.hostname()}`);
-
